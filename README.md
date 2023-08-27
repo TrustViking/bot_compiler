@@ -1,4 +1,4 @@
-# bot_snipper
+# bot_compiler
 # Telegram-bot for slicing and assembling video fragments of the international project CREATIVE SOCIETY. 
 # Human Life is the Highest Value. 
 # CREATIVE SOCIETY is an international project that unites people from over 180 countries on a voluntary basis. 
